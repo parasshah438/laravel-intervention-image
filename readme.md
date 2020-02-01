@@ -12,6 +12,7 @@
 Useful Links:
 
 Website: http://image.intervention.io/
+<br>
 Github: https://github.com/Intervention/image
 Image Cache Github : https://github.com/Intervention/image...
 Image Cache Website : http://image.intervention.io/use/cache
